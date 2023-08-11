@@ -1,0 +1,19 @@
+.container{
+    margin-top: 20px;
+    padding: 50px;
+    
+}
+h1{
+    padding: 20px;
+}
+
+th {
+   
+    background-color: rgb(15, 10, 9);
+    text-align: center;
+}
+#table-body{
+    
+    background-color: rgb(221, 238, 238);
+    text-align: center;
+}
